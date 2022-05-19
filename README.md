@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/Nick390/AlertUser-/main/alert_user_logo.png?token=GHSAT0AAAAAABUJNZYDYRXL2UL3HUNZO72WYUFUFDQ)
+![Logo](https://i.imgur.com/twm5sEp.png)
 
 
 # AlertUser Project
