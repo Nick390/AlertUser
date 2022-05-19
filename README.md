@@ -4,6 +4,7 @@
 
 # AlertUser Project
 The magic solution to display alert in any project using the least possible code.
+![AlertUser version](https://img.shields.io/badge/AlertUser-v1-blue)
  
 
  ## Installation
